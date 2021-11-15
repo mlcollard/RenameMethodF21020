@@ -6,7 +6,7 @@
 
 #include "Memoes.hpp"
 
-int Memoes::size() const {
+int Memoes::length() const {
 
     return 0;
 }

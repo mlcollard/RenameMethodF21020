@@ -12,7 +12,7 @@ int main() {
     {
         Memoes Memoes;
 
-        assert(Memoes.size() == 0);
+        assert(Memoes.length() == 0);
     }
 
     return 0;
