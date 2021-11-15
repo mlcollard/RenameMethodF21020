@@ -8,7 +8,7 @@
 
 int Memoes::size() const {
 
-    return 0;
+    return length();
 }
 
 int Memoes::length() const {
